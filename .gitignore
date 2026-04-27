@@ -1,0 +1,22 @@
+# Codul scris de mine in timp ce invat (drill-uri, incercari)
+practice/
+
+# Claude Code config local
+.claude/
+
+# Build artifacts (MSVC / VS)
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+Debug/
+Release/
+x64/
+.vs/
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
